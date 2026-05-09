@@ -1,0 +1,21 @@
+# 构建产物
+dist/
+build/
+*.spec
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ffmpeg 临时文件（构建时自动下载）
+ffmpeg/
+
+# 日志
+*.log

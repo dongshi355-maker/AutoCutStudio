@@ -1,0 +1,13 @@
+{
+  "gesture_in": "/Users/nxb/Desktop/待剪素材",
+  "gesture_out": "/Users/nxb/Desktop/待剪素材/5秒素材",
+  "gesture_delay": 1,
+  "gesture_duration": 6,
+  "gesture_watermark": false,
+  "gesture_watch": true,
+  "wm_dir": "/Users/nxb/Desktop/AI水印",
+  "wm_image": "/Users/nxb/Desktop/AI橱窗图/AI换背景/水印.png",
+  "wm_position": "bottom-left",
+  "wm_scale": 1.0,
+  "wm_watch": false
+}
